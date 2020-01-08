@@ -5,7 +5,7 @@ set timefmt "%Y-%m-%d %H:%M:%S" # specify our time string format
 #set format x "%H:%M:%S" # otherwise it will show only MM:SS
 set key autotitle columnhead
 set xlabel 'Time'
-set ylabel 'Temperature (C)
+set ylabel 'Temperature (C)'
 
 # second axis
 set y2tics 
